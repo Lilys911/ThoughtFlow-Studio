@@ -27,5 +27,15 @@ ThoughtFlow-Studio aims to bring **visual thinking** into the command-line envir
 
 ---
 
+---
+
+## ▶️ How to Run
+
+### Option 1: Using Terminal / Command Prompt
+
+```bash
+javac src/Main.java
+java src.Main
+
 
 
